@@ -1,0 +1,28 @@
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorConsole\bin\Debug\VectorConsole.exe.config
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorConsole\bin\Debug\VectorConsole.exe
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorConsole\bin\Debug\VectorConsole.pdb
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorConsole\obj\Debug\VectorConsole.csproj.AssemblyReference.cache
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorConsole\obj\Debug\VectorConsole.csproj.CoreCompileInputs.cache
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorConsole\obj\Debug\VectorConsole.exe
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorConsole\obj\Debug\VectorConsole.pdb
+D:\VectorConsole\VectorConsole\bin\Debug\VectorConsole.exe.config
+D:\VectorConsole\VectorConsole\bin\Debug\VectorConsole.exe
+D:\VectorConsole\VectorConsole\bin\Debug\VectorConsole.pdb
+D:\VectorConsole\VectorConsole\obj\Debug\VectorConsole.csproj.CoreCompileInputs.cache
+D:\VectorConsole\VectorConsole\obj\Debug\VectorConsole.exe
+D:\VectorConsole\VectorConsole\obj\Debug\VectorConsole.pdb
+E:\VectorConsole\VectorConsole\bin\Debug\VectorConsole.exe.config
+E:\VectorConsole\VectorConsole\bin\Debug\VectorConsole.exe
+E:\VectorConsole\VectorConsole\bin\Debug\VectorConsole.pdb
+E:\VectorConsole\VectorConsole\obj\Debug\VectorConsole.csproj.AssemblyReference.cache
+E:\VectorConsole\VectorConsole\obj\Debug\VectorConsole.csproj.CoreCompileInputs.cache
+E:\VectorConsole\VectorConsole\obj\Debug\VectorConsole.exe
+E:\VectorConsole\VectorConsole\obj\Debug\VectorConsole.pdb
+D:\VectorConsole\VectorConsole\obj\Debug\VectorConsole.csproj.AssemblyReference.cache
+F:\WorldSkills\Юниоры\VectorConsoleРуслан версия 17.11\VectorConsole\VectorConsole\bin\Debug\VectorConsole.exe.config
+F:\WorldSkills\Юниоры\VectorConsoleРуслан версия 17.11\VectorConsole\VectorConsole\bin\Debug\VectorConsole.exe
+F:\WorldSkills\Юниоры\VectorConsoleРуслан версия 17.11\VectorConsole\VectorConsole\bin\Debug\VectorConsole.pdb
+F:\WorldSkills\Юниоры\VectorConsoleРуслан версия 17.11\VectorConsole\VectorConsole\obj\Debug\VectorConsole.csproj.AssemblyReference.cache
+F:\WorldSkills\Юниоры\VectorConsoleРуслан версия 17.11\VectorConsole\VectorConsole\obj\Debug\VectorConsole.csproj.CoreCompileInputs.cache
+F:\WorldSkills\Юниоры\VectorConsoleРуслан версия 17.11\VectorConsole\VectorConsole\obj\Debug\VectorConsole.exe
+F:\WorldSkills\Юниоры\VectorConsoleРуслан версия 17.11\VectorConsole\VectorConsole\obj\Debug\VectorConsole.pdb

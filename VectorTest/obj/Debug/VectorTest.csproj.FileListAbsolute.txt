@@ -1,0 +1,54 @@
+E:\VectorConsole\VectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\VectorConsole\VectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\VectorConsole\VectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\VectorConsole\VectorTest\bin\Debug\VectorTest.dll
+E:\VectorConsole\VectorTest\bin\Debug\VectorTest.pdb
+E:\VectorConsole\VectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\VectorConsole\VectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\VectorConsole\VectorTest\bin\Debug\VectorConsole.exe
+E:\VectorConsole\VectorTest\bin\Debug\VectorConsole.pdb
+E:\VectorConsole\VectorTest\bin\Debug\VectorConsole.exe.config
+E:\VectorConsole\VectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\VectorConsole\VectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\VectorConsole\VectorTest\obj\Debug\VectorTest.csproj.AssemblyReference.cache
+E:\VectorConsole\VectorTest\obj\Debug\VectorTest.csproj.CoreCompileInputs.cache
+E:\VectorConsole\VectorTest\obj\Debug\VectorTest.csproj.CopyComplete
+E:\VectorConsole\VectorTest\obj\Debug\VectorTest.dll
+E:\VectorConsole\VectorTest\obj\Debug\VectorTest.pdb
+D:\VectorConsole\VectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\VectorConsole\VectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\VectorConsole\VectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\VectorConsole\VectorTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\VectorConsole\VectorTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\VectorConsole\VectorTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\VectorConsole\VectorTest\bin\Debug\VectorTest.dll
+D:\VectorConsole\VectorTest\bin\Debug\VectorTest.pdb
+D:\VectorConsole\VectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\VectorConsole\VectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\VectorConsole\VectorTest\bin\Debug\VectorConsole.exe
+D:\VectorConsole\VectorTest\bin\Debug\VectorConsole.pdb
+D:\VectorConsole\VectorTest\bin\Debug\VectorConsole.exe.config
+D:\VectorConsole\VectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\VectorConsole\VectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\VectorConsole\VectorTest\obj\Debug\VectorTest.csproj.AssemblyReference.cache
+D:\VectorConsole\VectorTest\obj\Debug\VectorTest.csproj.CoreCompileInputs.cache
+D:\VectorConsole\VectorTest\obj\Debug\VectorTest.csproj.CopyComplete
+D:\VectorConsole\VectorTest\obj\Debug\VectorTest.dll
+D:\VectorConsole\VectorTest\obj\Debug\VectorTest.pdb
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorTest\bin\Debug\VectorTest.dll
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorTest\bin\Debug\VectorTest.pdb
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorTest\bin\Debug\VectorConsole.exe
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorTest\bin\Debug\VectorConsole.pdb
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorTest\bin\Debug\VectorConsole.exe.config
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorTest\obj\Debug\VectorTest.csproj.AssemblyReference.cache
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorTest\obj\Debug\VectorTest.csproj.CoreCompileInputs.cache
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorTest\obj\Debug\VectorTest.csproj.CopyComplete
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorTest\obj\Debug\VectorTest.dll
+D:\Projects\College\3 course\Задания для юниоров\VectorConsole\VectorTest\obj\Debug\VectorTest.pdb
